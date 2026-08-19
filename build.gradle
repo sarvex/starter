@@ -47,5 +47,5 @@ eclipse {
 }
 
 task wrapper(type: Wrapper) {
-  gradleVersion = '8.13'
+  gradleVersion = '9.7.1'
 }
